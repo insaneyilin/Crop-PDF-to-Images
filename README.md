@@ -22,8 +22,8 @@ Results will be in the "output" directory.
 
 #### Input image
 
-
+![input](https://github.com/insaneyilin/Crop-PDF-to-Images/blob/master/example/input.png?raw=true)
 
 #### Contours
 
-
+![contours](https://github.com/insaneyilin/Crop-PDF-to-Images/blob/master/example/contours.png?raw=true)
